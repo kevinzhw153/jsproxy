@@ -89,9 +89,7 @@ jsproxy_config({
       replace: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png'
     },
     
-        'http://zh.wikipedia.org/': {
-      content: 'test'
-    },
+       
     
     'http://haha.com/': {
       content: 'Hello World'
