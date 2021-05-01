@@ -90,7 +90,7 @@ jsproxy_config({
     },
     
            'http://falundafa.org/': {
-      content: 'NO NO NO'
+      redir: 'http://baidu.com/'
     },
     
     'http://haha.com/': {
